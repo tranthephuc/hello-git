@@ -3,3 +3,4 @@ Actualy, I want to add new comment!
 Commit: Save index status --------------->
 pull: Take remote repository
 Staging: Implement Service 1
+Staging: Implement Service 2
