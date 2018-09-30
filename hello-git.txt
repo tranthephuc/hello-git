@@ -5,4 +5,5 @@ pull: Take remote repository
 Staging: Implement Service 1
 Master: Implement Service 3
 Staging: Implement Service 2
+The final result: Staggin is the best!
 
