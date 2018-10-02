@@ -9,3 +9,4 @@ The final result: Master is the best!
 The stagging will call for police man!
 The stagging: I don't aggree with master, I'll push it by my self!
 add: Dang ky thay doi trong Index
+commit: Luu lai trang thai cua commit
