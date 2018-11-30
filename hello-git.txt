@@ -11,6 +11,11 @@ The stagging: I don't aggree with master, I'll push it by my self!
 add: Dang ky thay doi trong Index
 commit: Luu lai trang thai cua commit
 pull: Lay noi dung cua repository
+
+---------------------------------
+FPT DEV 2
+---------------------------------
+
 ---------------------------------
 FPT DEV 1
 ---------------------------------
